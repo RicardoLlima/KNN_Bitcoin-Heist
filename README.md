@@ -40,6 +40,8 @@ This will install the following dependencies:
 - `numpy`
 - `tk`
 
+4. Download the dataset [here](https://archive.ics.uci.edu/dataset/526/bitcoinheistransomwareaddressdataset) and place it in the main project folder.
+
 Once the dependencies are installed, you can start working with the project.
 
 ## Usage
